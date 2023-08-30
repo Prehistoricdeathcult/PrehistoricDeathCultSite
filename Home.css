@@ -498,12 +498,16 @@
 .u-section-3 .u-social-icons-1 {
   height: 96px;
   min-height: 16px;
-  width: 96px;
-  min-width: 16px;
+  width: 208px;
+  min-width: 48px;
   margin: 20px auto 0;
 }
 
 .u-section-3 .u-icon-1 {
+  height: 100%;
+}
+
+.u-section-3 .u-icon-2 {
   height: 100%;
 }
 
