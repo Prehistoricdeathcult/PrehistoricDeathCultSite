@@ -496,10 +496,9 @@
 }
 
 .u-section-3 .u-social-icons-1 {
-  height: 96px;
   min-height: 16px;
-  width: 208px;
-  min-width: 48px;
+  width: 278px;
+  min-width: 56px;
   margin: 20px auto 0;
 }
 
@@ -514,6 +513,10 @@
 @media (max-width: 1199px) {
   .u-section-3 .u-sheet-1 {
     min-height: 631px;
+  }
+
+  .u-section-3 .u-social-icons-1 {
+    width: NaNpx;
   }
 }
 
