@@ -55,7 +55,7 @@
     "imageResize": true,
     "chatbutton": {},
     "favicon": false,
-    "mbrsiteDomain": "tguvwb9ku1",
+    "mbrsiteDomain": "ho6c1yiubh",
     "usedWebp": false,
     "cssOptimize": false,
     "lazyLoad": false,
@@ -83,7 +83,8 @@
     "robotsText": "User-agent: *\nDisallow: /cgi-bin\n",
     "cookiesAlertType": "2",
     "gdpr": false,
-    "witsec-white-label": true
+    "witsec-white-label": true,
+    "site_lang": "en"
   },
   "pages": {
     "index.html": {
